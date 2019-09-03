@@ -7,7 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of translate is to …
+The goal of translate is to allow users to switch easily between
+translation APIs and packages.
 
 ## Installation
 
